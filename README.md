@@ -7,6 +7,7 @@
 ## DAMN! COMPARISON IS THE THIEF OF JOY
 
 <h1 align="center" About Me:</h1>
+  
 I am currently in my final year, pursuing an undergraduate degree in Computer Science with a major focus on Software Engineering and Development. My experience spans both front-end and back-end technologies, making me a full stack engineer with a well-rounded understanding of the entire development lifecycle.
 
 

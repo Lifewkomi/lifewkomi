@@ -13,13 +13,3 @@
 - 📚 My experience spans both front-end and back-end technologies, making me a full stack engineer with a well-rounded understanding of the entire development lifecycle..
 - 📫 Reach Out: philemonkomi46@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=lifewkomi&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<div id="badges">
-  <a href="https://www.linked-in.com/in/philemon-komi">
-  </a>
-  <a href="https://www.instagram.com/lifewkomi">
-  </a>
-  <a href="https://www.x.com/philemon-komi">
-  </a>
-</div>

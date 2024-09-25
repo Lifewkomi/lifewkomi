@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Hey👋. I'm Philemon Komi.
----
+# Hey👋. I'm Philemon Komi.
+
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ME: 
 </div>
@@ -13,3 +13,5 @@
 - 📚 My experience spans both front-end and back-end technologies, making me a full stack engineer with a well-rounded understanding of the entire development lifecycle..
 - 📫 Reach Out: philemonkomi46@gmail.com
 
+## My Technology Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,html,js,css,npm,nextjs,pycharm,styledcomponents,tailwind,vscode,vercel,threejs,netlify,mongodb,postman,mysql,figma,express)]
